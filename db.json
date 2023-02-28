@@ -1,0 +1,150 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "name": "BEKZOD AKE ",
+      "age": 30,
+      "url": "./img/Bekzod.png"
+      
+    },
+    {
+      "id": 2,
+      "name": "jorj",
+      "age": 20,
+      "url": "./img/jorj.png"
+    },
+    {
+      "id": 3,
+      "name": "Max",
+      "age": 25,
+      "url": "./img/Max.png"
+    },
+    {
+      "id": 4,
+      "name": "Jonh",
+      "age": 19,
+      "url": "./img/Jonh.png"
+    },
+    {
+      "id": 5,
+      "name": "Andrei",
+      "age": 40,
+      "url": "./img/Andrei.png"
+    },
+    {
+      "id": 6,
+      "name": "Dima",
+      "age": 46,
+      "url": "./img/Dima.png"
+    },
+    {
+      "id": 7,
+      "name": "Sandra",
+      "age": 18,
+      "url": "./img/Sandra.png"
+    },
+    {
+      "id": 8,
+      "name": "CringeMan",
+      "age": -0,
+      "url": "./img/CringeMen.png"    
+    },
+    {
+      "id": 9,
+      "name": "Kolya",
+      "age": 19,
+      "url": "./img/Kolya.png"
+    },
+    {
+      "id": 10,
+      "name": "Alex",
+      "age": 35,
+      "url": "./img/Alex.png"
+    },
+    {
+      "id": 11,
+      "name": "Jonatan",
+      "age": 21,
+      "url": "./img/Jonatan.png"
+    },
+    {
+      "id": 12,
+      "name": "Sakura",
+      "age": 29,
+      "url": "./img/Sakura.png"
+    },
+    {
+      "id": 13,
+      "name": "Jozef",
+      "age": 39,
+      "url": "./img/Jozef.png"
+    },
+    {
+      "id": 14,
+      "name": "May",
+      "age": 22,
+      "url": "./img/May.png"
+    },
+    {
+      "id": 15,
+      "name": "Cezar",
+      "age": 33,
+      "url": "./img/Cezar.png"
+    },
+    {
+      "id": 16,
+      "name": "Lu",
+      "age": 24,
+      "url": "./img/Lu.png"
+    },
+    {
+      "id": 17,
+      "name": "Mayk Tayson",
+      "age": 33,
+      "url": "./img/Mayk Tayson.png"
+    },
+    {
+      "id": 18,
+      "name": "Kevin",
+      "age": 26,
+      "url": "./img/Kevin.png"
+    },
+    {
+      "id": 19,
+      "name": "Aliya",
+      "age": 45,
+      "url": "./img/Aliya.png"
+    },
+    {
+      "id": 20,
+      "name": "Adel",
+      "age": 17,
+      "url": "./img/Adel.png"
+    },
+    {
+      "id": 21,
+      "name": "leo",
+      "age": 45,
+      "url": "./img/Leo.png"
+    },
+    {
+      "id": 22,
+      "name": "Narkoman",
+      "age": 44,
+      "url": "./img/Narkoman.png"
+    },
+    {
+      "id": 23,
+      "name": "Jojo",
+      "age": 31,
+      "url": "./img/Jojo.png"
+    },
+    {
+      "id": 24,
+      "name": "Johanna",
+      "age": 30,
+      "url": "./img/Johanna.png"
+    }
+   
+  ] 
+}
